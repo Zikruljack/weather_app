@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 95.3222,
+        "lat": 5.5577
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 303.15,
+        "feels_like": 306.6,
+        "temp_min": 303.15,
+        "temp_max": 303.15,
+        "pressure": 1008,
+        "humidity": 63,
+        "sea_level": 1008,
+        "grnd_level": 1007
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.86,
+        "deg": 215,
+        "gust": 5.44
+    },
+    "clouds": {
+        "all": 68
+    },
+    "dt": 1656134374,
+    "sys": {
+        "country": "ID",
+        "sunrise": 1656113274,
+        "sunset": 1656158069
+    },
+    "timezone": 25200,
+    "id": 1215502,
+    "name": "Banda Aceh",
+    "cod": 200
+}
